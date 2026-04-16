@@ -42,11 +42,4 @@ Make scripts executable:
 
 ```bash
 chmod +x script.sh
-🎯 Goals
-Improve Bash scripting skills
-Learn Linux automation
-Build useful system tools
-Create a personal dev toolkit
-📌 Notes
 
-This project is continuously evolving as I learn more about Linux and scripting.
